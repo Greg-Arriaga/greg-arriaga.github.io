@@ -52,7 +52,16 @@
     <address>
         Contact: <a href="mailto:gregory.arriaga@example.com">Email Gregory</a>
     </address>
-    <p>&copy; 2025 HTML5-Boilerplate</p>
+    <p>Copyright &copy; <span id="currentYear"></span> Gregory Arriaga</p>
+<!--Script below is to grab current year. Instant Javascript script for client side processing -->
+        <script>
+    // Get a reference to the span element
+    const yearSpan = document.getElementById("currentYear");
+    // Create a new Date object and get the full year
+    const currentYear = new Date().getFullYear();
+    // Set the text content of the span to the current year
+    yearSpan.textContent = currentYear;
+    </script>
   </footer>
 </body>
 </html>
