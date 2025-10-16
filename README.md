@@ -1,4 +1,2 @@
 # greg-arriaga.github.io
-My front end web developer portfolio site.
-
-My first line in readme.md do you see me?
+This readme file is meant for those interested in my code or accidently found this file. If the later, please visit https://greg-arriaga.github.io/
