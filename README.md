@@ -5,7 +5,7 @@ This readme file is meant for those interested in my code or accidently found th
 ├── **.gitignore** # Files to ignore in version control
 ├── **package.json** # Project metadata and dependencies (for Node.js/tools)
 ├── **README.md** # Project description and setup instructions
-├── **src/** # 📦 All your source code goes here
+├── **docs/** # 📦 All your source code goes here
 │   ├── **api/** # 📡 Server-side logic (e.g., REST endpoints, data handlers)
 │   │   ├── **users.js**
 │   │   └── **posts.js**
